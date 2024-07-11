@@ -7,5 +7,5 @@
 
 
 ## 演示地址
-[个人主页](https://mengxing.cc)
+[个人主页](https://wsl11111.github.io/bfjy/)
 
